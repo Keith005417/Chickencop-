@@ -1,0 +1,14 @@
+{
+  "name": "chickencop-global-copy",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Global copy rotation Worker for chickencop.com",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
